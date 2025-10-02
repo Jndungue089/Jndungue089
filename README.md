@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer from Angola<br><br>- 🔭 I’m working as Full-Stack Web-Developer<br>- 📚 I'm currently learning .NET & ASP.NET<br>- ⚡ In my free time I code python, create APIs and projects for my portfolium<br>- 📫 How to reach me:</p>
+<p align="left">I'm a passionate developer from Angola<br><br>- 🔭 I’m working as Full-Stack Web-Developer<br>- 📚 I'm currently learning about best practices, architectures and DevOps<br>- ⚡ In my free time I code python, create APIs and projects for my portfolium<br>- 📫 How to reach me:</p>
 
 ###
 
