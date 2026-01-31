@@ -93,9 +93,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jndungue089&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![committers.top badge](https://user-badge.committers.top/angola_public/jndungue089.svg)](https://user-badge.committers.top/angola_public/jndungue089)
 
 ###
 
